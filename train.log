@@ -1,0 +1,1207 @@
+/home/vgl/miniconda3/envs/emirenv_samv2/lib/python3.11/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/vgl/miniconda3/envs/emirenv_samv2/lib/python3.11/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Files already downloaded and verified
+Epoch: 1/200 [0/50000 (0%)]	Loss: 5.817004
+Epoch: 1/200 [12800/50000 (26%)]	Loss: 3.554117
+Epoch: 1/200 [25600/50000 (51%)]	Loss: 3.363572
+Epoch: 1/200 [38400/50000 (77%)]	Loss: 2.813248
+Epoch 1/200, Average Loss: 3.3754
+Current Learning Rate: 0.001000
+Epoch: 2/200 [0/50000 (0%)]	Loss: 2.564249
+Epoch: 2/200 [12800/50000 (26%)]	Loss: 2.599116
+Epoch: 2/200 [25600/50000 (51%)]	Loss: 2.407487
+Epoch: 2/200 [38400/50000 (77%)]	Loss: 2.192592
+Epoch 2/200, Average Loss: 2.4164
+Current Learning Rate: 0.001000
+Epoch: 3/200 [0/50000 (0%)]	Loss: 2.413665
+Epoch: 3/200 [12800/50000 (26%)]	Loss: 2.193742
+Epoch: 3/200 [25600/50000 (51%)]	Loss: 2.178192
+Epoch: 3/200 [38400/50000 (77%)]	Loss: 2.211362
+Epoch 3/200, Average Loss: 2.1712
+Current Learning Rate: 0.000999
+Epoch: 4/200 [0/50000 (0%)]	Loss: 2.067135
+Epoch: 4/200 [12800/50000 (26%)]	Loss: 2.095531
+Epoch: 4/200 [25600/50000 (51%)]	Loss: 2.027313
+Epoch: 4/200 [38400/50000 (77%)]	Loss: 1.934381
+Epoch 4/200, Average Loss: 2.0047
+Current Learning Rate: 0.000999
+Epoch: 5/200 [0/50000 (0%)]	Loss: 1.794999
+Epoch: 5/200 [12800/50000 (26%)]	Loss: 1.847924
+Epoch: 5/200 [25600/50000 (51%)]	Loss: 1.791259
+Epoch: 5/200 [38400/50000 (77%)]	Loss: 1.818431
+Epoch 5/200, Average Loss: 1.8852
+Current Learning Rate: 0.000998
+Epoch: 6/200 [0/50000 (0%)]	Loss: 1.874150
+Epoch: 6/200 [12800/50000 (26%)]	Loss: 1.861143
+Epoch: 6/200 [25600/50000 (51%)]	Loss: 1.732028
+Epoch: 6/200 [38400/50000 (77%)]	Loss: 2.030281
+Epoch 6/200, Average Loss: 1.8016
+Current Learning Rate: 0.000998
+Epoch: 7/200 [0/50000 (0%)]	Loss: 1.793257
+Epoch: 7/200 [12800/50000 (26%)]	Loss: 1.750327
+Epoch: 7/200 [25600/50000 (51%)]	Loss: 1.849536
+Epoch: 7/200 [38400/50000 (77%)]	Loss: 1.859744
+Epoch 7/200, Average Loss: 1.7316
+Current Learning Rate: 0.000997
+Epoch: 8/200 [0/50000 (0%)]	Loss: 1.720341
+Epoch: 8/200 [12800/50000 (26%)]	Loss: 1.757912
+Epoch: 8/200 [25600/50000 (51%)]	Loss: 1.726789
+Epoch: 8/200 [38400/50000 (77%)]	Loss: 1.965485
+Epoch 8/200, Average Loss: 1.7003
+Current Learning Rate: 0.000996
+Epoch: 9/200 [0/50000 (0%)]	Loss: 1.366775
+Epoch: 9/200 [12800/50000 (26%)]	Loss: 1.541067
+Epoch: 9/200 [25600/50000 (51%)]	Loss: 1.824406
+Epoch: 9/200 [38400/50000 (77%)]	Loss: 1.747743
+Epoch 9/200, Average Loss: 1.6773
+Current Learning Rate: 0.000995
+Epoch: 10/200 [0/50000 (0%)]	Loss: 1.667850
+Epoch: 10/200 [12800/50000 (26%)]	Loss: 1.620535
+Epoch: 10/200 [25600/50000 (51%)]	Loss: 1.623632
+Epoch: 10/200 [38400/50000 (77%)]	Loss: 1.654223
+Epoch 10/200, Average Loss: 1.6645
+Current Learning Rate: 0.000994
+Epoch: 11/200 [0/50000 (0%)]	Loss: 1.539385
+Epoch: 11/200 [12800/50000 (26%)]	Loss: 1.729420
+Epoch: 11/200 [25600/50000 (51%)]	Loss: 1.924920
+Epoch: 11/200 [38400/50000 (77%)]	Loss: 1.670536
+Epoch 11/200, Average Loss: 1.6792
+Current Learning Rate: 0.000993
+Epoch: 12/200 [0/50000 (0%)]	Loss: 1.680089
+Epoch: 12/200 [12800/50000 (26%)]	Loss: 1.773276
+Epoch: 12/200 [25600/50000 (51%)]	Loss: 1.731498
+Epoch: 12/200 [38400/50000 (77%)]	Loss: 1.688201
+Epoch 12/200, Average Loss: 1.6499
+Current Learning Rate: 0.000991
+Epoch: 13/200 [0/50000 (0%)]	Loss: 1.512448
+Epoch: 13/200 [12800/50000 (26%)]	Loss: 1.550467
+Epoch: 13/200 [25600/50000 (51%)]	Loss: 1.581770
+Epoch: 13/200 [38400/50000 (77%)]	Loss: 1.524959
+Epoch 13/200, Average Loss: 1.5923
+Current Learning Rate: 0.000990
+Epoch: 14/200 [0/50000 (0%)]	Loss: 1.597167
+Epoch: 14/200 [12800/50000 (26%)]	Loss: 1.594356
+Epoch: 14/200 [25600/50000 (51%)]	Loss: 1.371081
+Epoch: 14/200 [38400/50000 (77%)]	Loss: 1.531832
+Epoch 14/200, Average Loss: 1.5565
+Current Learning Rate: 0.000988
+Epoch: 15/200 [0/50000 (0%)]	Loss: 1.459029
+Epoch: 15/200 [12800/50000 (26%)]	Loss: 1.551655
+Epoch: 15/200 [25600/50000 (51%)]	Loss: 1.546452
+Epoch: 15/200 [38400/50000 (77%)]	Loss: 1.506581
+Epoch 15/200, Average Loss: 1.5295
+Current Learning Rate: 0.000986
+Epoch: 16/200 [0/50000 (0%)]	Loss: 1.583467
+Epoch: 16/200 [12800/50000 (26%)]	Loss: 1.603587
+Epoch: 16/200 [25600/50000 (51%)]	Loss: 1.625166
+Epoch: 16/200 [38400/50000 (77%)]	Loss: 1.535900
+Epoch 16/200, Average Loss: 1.4980
+Current Learning Rate: 0.000984
+Epoch: 17/200 [0/50000 (0%)]	Loss: 1.545046
+Epoch: 17/200 [12800/50000 (26%)]	Loss: 1.610942
+Epoch: 17/200 [25600/50000 (51%)]	Loss: 1.380449
+Epoch: 17/200 [38400/50000 (77%)]	Loss: 1.389879
+Epoch 17/200, Average Loss: 1.4640
+Current Learning Rate: 0.000982
+Epoch: 18/200 [0/50000 (0%)]	Loss: 1.502682
+Epoch: 18/200 [12800/50000 (26%)]	Loss: 1.605263
+Epoch: 18/200 [25600/50000 (51%)]	Loss: 1.530687
+Epoch: 18/200 [38400/50000 (77%)]	Loss: 1.490568
+Epoch 18/200, Average Loss: 1.4393
+Current Learning Rate: 0.000980
+Epoch: 19/200 [0/50000 (0%)]	Loss: 1.329654
+Epoch: 19/200 [12800/50000 (26%)]	Loss: 1.528322
+Epoch: 19/200 [25600/50000 (51%)]	Loss: 1.392588
+Epoch: 19/200 [38400/50000 (77%)]	Loss: 1.302691
+Epoch 19/200, Average Loss: 1.4023
+Current Learning Rate: 0.000978
+Epoch: 20/200 [0/50000 (0%)]	Loss: 1.422185
+Epoch: 20/200 [12800/50000 (26%)]	Loss: 1.286567
+Epoch: 20/200 [25600/50000 (51%)]	Loss: 1.421264
+Epoch: 20/200 [38400/50000 (77%)]	Loss: 1.260516
+Epoch 20/200, Average Loss: 1.3877
+Current Learning Rate: 0.000976
+Epoch: 21/200 [0/50000 (0%)]	Loss: 1.280375
+Epoch: 21/200 [12800/50000 (26%)]	Loss: 1.257561
+Epoch: 21/200 [25600/50000 (51%)]	Loss: 1.398886
+Epoch: 21/200 [38400/50000 (77%)]	Loss: 1.336082
+Epoch 21/200, Average Loss: 1.3487
+Current Learning Rate: 0.000973
+Epoch: 22/200 [0/50000 (0%)]	Loss: 1.286486
+Epoch: 22/200 [12800/50000 (26%)]	Loss: 1.441612
+Epoch: 22/200 [25600/50000 (51%)]	Loss: 1.336493
+Epoch: 22/200 [38400/50000 (77%)]	Loss: 1.316463
+Epoch 22/200, Average Loss: 1.3197
+Current Learning Rate: 0.000970
+Epoch: 23/200 [0/50000 (0%)]	Loss: 1.198401
+Epoch: 23/200 [12800/50000 (26%)]	Loss: 1.395933
+Epoch: 23/200 [25600/50000 (51%)]	Loss: 1.382399
+Epoch: 23/200 [38400/50000 (77%)]	Loss: 1.404152
+Epoch 23/200, Average Loss: 1.2895
+Current Learning Rate: 0.000968
+Epoch: 24/200 [0/50000 (0%)]	Loss: 1.173197
+Epoch: 24/200 [12800/50000 (26%)]	Loss: 1.205281
+Epoch: 24/200 [25600/50000 (51%)]	Loss: 1.179065
+Epoch: 24/200 [38400/50000 (77%)]	Loss: 1.120865
+Epoch 24/200, Average Loss: 1.2824
+Current Learning Rate: 0.000965
+Epoch: 25/200 [0/50000 (0%)]	Loss: 1.379337
+Epoch: 25/200 [12800/50000 (26%)]	Loss: 1.349824
+Epoch: 25/200 [25600/50000 (51%)]	Loss: 1.343288
+Epoch: 25/200 [38400/50000 (77%)]	Loss: 1.420711
+Epoch 25/200, Average Loss: 1.2438
+Current Learning Rate: 0.000962
+Epoch: 26/200 [0/50000 (0%)]	Loss: 1.237732
+Epoch: 26/200 [12800/50000 (26%)]	Loss: 1.067003
+Epoch: 26/200 [25600/50000 (51%)]	Loss: 1.344450
+Epoch: 26/200 [38400/50000 (77%)]	Loss: 1.423615
+Epoch 26/200, Average Loss: 1.2328
+Current Learning Rate: 0.000959
+Epoch: 27/200 [0/50000 (0%)]	Loss: 1.126497
+Epoch: 27/200 [12800/50000 (26%)]	Loss: 1.260455
+Epoch: 27/200 [25600/50000 (51%)]	Loss: 1.407044
+Epoch: 27/200 [38400/50000 (77%)]	Loss: 1.307613
+Epoch 27/200, Average Loss: 1.2193
+Current Learning Rate: 0.000956
+Epoch: 28/200 [0/50000 (0%)]	Loss: 0.963976
+Epoch: 28/200 [12800/50000 (26%)]	Loss: 1.193594
+Epoch: 28/200 [25600/50000 (51%)]	Loss: 1.312983
+Epoch: 28/200 [38400/50000 (77%)]	Loss: 1.280459
+Epoch 28/200, Average Loss: 1.2142
+Current Learning Rate: 0.000952
+Epoch: 29/200 [0/50000 (0%)]	Loss: 1.358471
+Epoch: 29/200 [12800/50000 (26%)]	Loss: 1.258025
+Epoch: 29/200 [25600/50000 (51%)]	Loss: 1.259329
+Epoch: 29/200 [38400/50000 (77%)]	Loss: 1.341712
+Epoch 29/200, Average Loss: 1.2064
+Current Learning Rate: 0.000949
+Epoch: 30/200 [0/50000 (0%)]	Loss: 1.010985
+Epoch: 30/200 [12800/50000 (26%)]	Loss: 1.283964
+Epoch: 30/200 [25600/50000 (51%)]	Loss: 1.100941
+Epoch: 30/200 [38400/50000 (77%)]	Loss: 1.240381
+Epoch 30/200, Average Loss: 1.1920
+Current Learning Rate: 0.000946
+Epoch: 31/200 [0/50000 (0%)]	Loss: 1.362405
+Epoch: 31/200 [12800/50000 (26%)]	Loss: 1.383844
+Epoch: 31/200 [25600/50000 (51%)]	Loss: 1.349148
+Epoch: 31/200 [38400/50000 (77%)]	Loss: 1.249496
+Epoch 31/200, Average Loss: 1.1817
+Current Learning Rate: 0.000942
+Epoch: 32/200 [0/50000 (0%)]	Loss: 1.227438
+Epoch: 32/200 [12800/50000 (26%)]	Loss: 1.058212
+Epoch: 32/200 [25600/50000 (51%)]	Loss: 1.114004
+Epoch: 32/200 [38400/50000 (77%)]	Loss: 1.178644
+Epoch 32/200, Average Loss: 1.1772
+Current Learning Rate: 0.000938
+Epoch: 33/200 [0/50000 (0%)]	Loss: 1.285581
+Epoch: 33/200 [12800/50000 (26%)]	Loss: 1.082490
+Epoch: 33/200 [25600/50000 (51%)]	Loss: 1.210056
+Epoch: 33/200 [38400/50000 (77%)]	Loss: 1.060480
+Epoch 33/200, Average Loss: 1.1666
+Current Learning Rate: 0.000934
+Epoch: 34/200 [0/50000 (0%)]	Loss: 1.018471
+Epoch: 34/200 [12800/50000 (26%)]	Loss: 1.110817
+Epoch: 34/200 [25600/50000 (51%)]	Loss: 1.127857
+Epoch: 34/200 [38400/50000 (77%)]	Loss: 0.978773
+Epoch 34/200, Average Loss: 1.1496
+Current Learning Rate: 0.000930
+Epoch: 35/200 [0/50000 (0%)]	Loss: 1.035161
+Epoch: 35/200 [12800/50000 (26%)]	Loss: 1.108696
+Epoch: 35/200 [25600/50000 (51%)]	Loss: 0.912754
+Epoch: 35/200 [38400/50000 (77%)]	Loss: 1.189232
+Epoch 35/200, Average Loss: 1.1296
+Current Learning Rate: 0.000926
+Epoch: 36/200 [0/50000 (0%)]	Loss: 1.012066
+Epoch: 36/200 [12800/50000 (26%)]	Loss: 1.265117
+Epoch: 36/200 [25600/50000 (51%)]	Loss: 1.219549
+Epoch: 36/200 [38400/50000 (77%)]	Loss: 1.030590
+Epoch 36/200, Average Loss: 1.1134
+Current Learning Rate: 0.000922
+Epoch: 37/200 [0/50000 (0%)]	Loss: 1.042346
+Epoch: 37/200 [12800/50000 (26%)]	Loss: 1.159457
+Epoch: 37/200 [25600/50000 (51%)]	Loss: 1.145345
+Epoch: 37/200 [38400/50000 (77%)]	Loss: 1.135810
+Epoch 37/200, Average Loss: 1.1058
+Current Learning Rate: 0.000918
+Epoch: 38/200 [0/50000 (0%)]	Loss: 1.089676
+Epoch: 38/200 [12800/50000 (26%)]	Loss: 0.995652
+Epoch: 38/200 [25600/50000 (51%)]	Loss: 1.200617
+Epoch: 38/200 [38400/50000 (77%)]	Loss: 1.029131
+Epoch 38/200, Average Loss: 1.1012
+Current Learning Rate: 0.000914
+Epoch: 39/200 [0/50000 (0%)]	Loss: 1.012212
+Epoch: 39/200 [12800/50000 (26%)]	Loss: 0.900458
+Epoch: 39/200 [25600/50000 (51%)]	Loss: 1.043097
+Epoch: 39/200 [38400/50000 (77%)]	Loss: 0.986526
+Epoch 39/200, Average Loss: 1.0843
+Current Learning Rate: 0.000909
+Epoch: 40/200 [0/50000 (0%)]	Loss: 0.983827
+Epoch: 40/200 [12800/50000 (26%)]	Loss: 1.018651
+Epoch: 40/200 [25600/50000 (51%)]	Loss: 1.049016
+Epoch: 40/200 [38400/50000 (77%)]	Loss: 0.843749
+Epoch 40/200, Average Loss: 1.0829
+Current Learning Rate: 0.000905
+Epoch: 41/200 [0/50000 (0%)]	Loss: 1.122866
+Epoch: 41/200 [12800/50000 (26%)]	Loss: 0.766694
+Epoch: 41/200 [25600/50000 (51%)]	Loss: 1.121728
+Epoch: 41/200 [38400/50000 (77%)]	Loss: 1.119637
+Epoch 41/200, Average Loss: 1.0659
+Current Learning Rate: 0.000900
+Epoch: 42/200 [0/50000 (0%)]	Loss: 1.185333
+Epoch: 42/200 [12800/50000 (26%)]	Loss: 0.990139
+Epoch: 42/200 [25600/50000 (51%)]	Loss: 0.958128
+Epoch: 42/200 [38400/50000 (77%)]	Loss: 0.979899
+Epoch 42/200, Average Loss: 1.0556
+Current Learning Rate: 0.000895
+Epoch: 43/200 [0/50000 (0%)]	Loss: 1.111782
+Epoch: 43/200 [12800/50000 (26%)]	Loss: 1.065710
+Epoch: 43/200 [25600/50000 (51%)]	Loss: 0.911093
+Epoch: 43/200 [38400/50000 (77%)]	Loss: 1.002089
+Epoch 43/200, Average Loss: 1.0490
+Current Learning Rate: 0.000890
+Epoch: 44/200 [0/50000 (0%)]	Loss: 1.057479
+Epoch: 44/200 [12800/50000 (26%)]	Loss: 1.256472
+Epoch: 44/200 [25600/50000 (51%)]	Loss: 0.965322
+Epoch: 44/200 [38400/50000 (77%)]	Loss: 1.045886
+Epoch 44/200, Average Loss: 1.0269
+Current Learning Rate: 0.000885
+Epoch: 45/200 [0/50000 (0%)]	Loss: 1.045913
+Epoch: 45/200 [12800/50000 (26%)]	Loss: 1.041698
+Epoch: 45/200 [25600/50000 (51%)]	Loss: 1.001439
+Epoch: 45/200 [38400/50000 (77%)]	Loss: 1.029114
+Epoch 45/200, Average Loss: 1.0008
+Current Learning Rate: 0.000880
+Epoch: 46/200 [0/50000 (0%)]	Loss: 0.958255
+Epoch: 46/200 [12800/50000 (26%)]	Loss: 1.033812
+Epoch: 46/200 [25600/50000 (51%)]	Loss: 1.104293
+Epoch: 46/200 [38400/50000 (77%)]	Loss: 0.930971
+Epoch 46/200, Average Loss: 0.9710
+Current Learning Rate: 0.000875
+Epoch: 47/200 [0/50000 (0%)]	Loss: 1.095997
+Epoch: 47/200 [12800/50000 (26%)]	Loss: 1.171445
+Epoch: 47/200 [25600/50000 (51%)]	Loss: 0.949650
+Epoch: 47/200 [38400/50000 (77%)]	Loss: 0.831401
+Epoch 47/200, Average Loss: 0.9654
+Current Learning Rate: 0.000870
+Epoch: 48/200 [0/50000 (0%)]	Loss: 1.121634
+Epoch: 48/200 [12800/50000 (26%)]	Loss: 0.950664
+Epoch: 48/200 [25600/50000 (51%)]	Loss: 0.887738
+Epoch: 48/200 [38400/50000 (77%)]	Loss: 1.144959
+Epoch 48/200, Average Loss: 0.9540
+Current Learning Rate: 0.000864
+Epoch: 49/200 [0/50000 (0%)]	Loss: 1.018452
+Epoch: 49/200 [12800/50000 (26%)]	Loss: 0.838175
+Epoch: 49/200 [25600/50000 (51%)]	Loss: 1.010558
+Epoch: 49/200 [38400/50000 (77%)]	Loss: 0.899805
+Epoch 49/200, Average Loss: 0.9310
+Current Learning Rate: 0.000859
+Epoch: 50/200 [0/50000 (0%)]	Loss: 0.874893
+Epoch: 50/200 [12800/50000 (26%)]	Loss: 0.902474
+Epoch: 50/200 [25600/50000 (51%)]	Loss: 0.992709
+Epoch: 50/200 [38400/50000 (77%)]	Loss: 0.879553
+Epoch 50/200, Average Loss: 0.9066
+Current Learning Rate: 0.000854
+Epoch: 51/200 [0/50000 (0%)]	Loss: 0.862195
+Epoch: 51/200 [12800/50000 (26%)]	Loss: 0.799682
+Epoch: 51/200 [25600/50000 (51%)]	Loss: 0.813009
+Epoch: 51/200 [38400/50000 (77%)]	Loss: 0.861015
+Epoch 51/200, Average Loss: 0.8905
+Current Learning Rate: 0.000848
+Epoch: 52/200 [0/50000 (0%)]	Loss: 0.921480
+Epoch: 52/200 [12800/50000 (26%)]	Loss: 0.836341
+Epoch: 52/200 [25600/50000 (51%)]	Loss: 0.856550
+Epoch: 52/200 [38400/50000 (77%)]	Loss: 0.898126
+Epoch 52/200, Average Loss: 0.8645
+Current Learning Rate: 0.000842
+Epoch: 53/200 [0/50000 (0%)]	Loss: 0.891747
+Epoch: 53/200 [12800/50000 (26%)]	Loss: 0.863953
+Epoch: 53/200 [25600/50000 (51%)]	Loss: 0.924394
+Epoch: 53/200 [38400/50000 (77%)]	Loss: 0.894911
+Epoch 53/200, Average Loss: 0.8424
+Current Learning Rate: 0.000837
+Epoch: 54/200 [0/50000 (0%)]	Loss: 1.000834
+Epoch: 54/200 [12800/50000 (26%)]	Loss: 0.868811
+Epoch: 54/200 [25600/50000 (51%)]	Loss: 0.932020
+Epoch: 54/200 [38400/50000 (77%)]	Loss: 0.816439
+Epoch 54/200, Average Loss: 0.8459
+Current Learning Rate: 0.000831
+Epoch: 55/200 [0/50000 (0%)]	Loss: 0.939695
+Epoch: 55/200 [12800/50000 (26%)]	Loss: 0.752663
+Epoch: 55/200 [25600/50000 (51%)]	Loss: 0.844594
+Epoch: 55/200 [38400/50000 (77%)]	Loss: 0.762361
+Epoch 55/200, Average Loss: 0.8184
+Current Learning Rate: 0.000825
+Epoch: 56/200 [0/50000 (0%)]	Loss: 0.902274
+Epoch: 56/200 [12800/50000 (26%)]	Loss: 0.886380
+Epoch: 56/200 [25600/50000 (51%)]	Loss: 0.784753
+Epoch: 56/200 [38400/50000 (77%)]	Loss: 0.689786
+Epoch 56/200, Average Loss: 0.7926
+Current Learning Rate: 0.000819
+Epoch: 57/200 [0/50000 (0%)]	Loss: 0.718705
+Epoch: 57/200 [12800/50000 (26%)]	Loss: 0.937868
+Epoch: 57/200 [25600/50000 (51%)]	Loss: 0.660239
+Epoch: 57/200 [38400/50000 (77%)]	Loss: 0.821860
+Epoch 57/200, Average Loss: 0.7840
+Current Learning Rate: 0.000813
+Epoch: 58/200 [0/50000 (0%)]	Loss: 0.706071
+Epoch: 58/200 [12800/50000 (26%)]	Loss: 0.876149
+Epoch: 58/200 [25600/50000 (51%)]	Loss: 0.694657
+Epoch: 58/200 [38400/50000 (77%)]	Loss: 0.635508
+Epoch 58/200, Average Loss: 0.7682
+Current Learning Rate: 0.000806
+Epoch: 59/200 [0/50000 (0%)]	Loss: 0.676685
+Epoch: 59/200 [12800/50000 (26%)]	Loss: 0.889503
+Epoch: 59/200 [25600/50000 (51%)]	Loss: 0.831433
+Epoch: 59/200 [38400/50000 (77%)]	Loss: 0.479522
+Epoch 59/200, Average Loss: 0.7622
+Current Learning Rate: 0.000800
+Epoch: 60/200 [0/50000 (0%)]	Loss: 0.729387
+Epoch: 60/200 [12800/50000 (26%)]	Loss: 0.597684
+Epoch: 60/200 [25600/50000 (51%)]	Loss: 0.746056
+Epoch: 60/200 [38400/50000 (77%)]	Loss: 0.709171
+Epoch 60/200, Average Loss: 0.7500
+Current Learning Rate: 0.000794
+Epoch: 61/200 [0/50000 (0%)]	Loss: 0.775478
+Epoch: 61/200 [12800/50000 (26%)]	Loss: 0.738644
+Epoch: 61/200 [25600/50000 (51%)]	Loss: 0.959173
+Epoch: 61/200 [38400/50000 (77%)]	Loss: 0.655551
+Epoch 61/200, Average Loss: 0.7279
+Current Learning Rate: 0.000788
+Epoch: 62/200 [0/50000 (0%)]	Loss: 0.668694
+Epoch: 62/200 [12800/50000 (26%)]	Loss: 0.760262
+Epoch: 62/200 [25600/50000 (51%)]	Loss: 0.724026
+Epoch: 62/200 [38400/50000 (77%)]	Loss: 0.685611
+Epoch 62/200, Average Loss: 0.7247
+Current Learning Rate: 0.000781
+Epoch: 63/200 [0/50000 (0%)]	Loss: 0.785116
+Epoch: 63/200 [12800/50000 (26%)]	Loss: 0.798535
+Epoch: 63/200 [25600/50000 (51%)]	Loss: 0.778814
+Epoch: 63/200 [38400/50000 (77%)]	Loss: 0.804489
+Epoch 63/200, Average Loss: 0.7054
+Current Learning Rate: 0.000775
+Epoch: 64/200 [0/50000 (0%)]	Loss: 0.615932
+Epoch: 64/200 [12800/50000 (26%)]	Loss: 0.738190
+Epoch: 64/200 [25600/50000 (51%)]	Loss: 0.843468
+Epoch: 64/200 [38400/50000 (77%)]	Loss: 0.707959
+Epoch 64/200, Average Loss: 0.6993
+Current Learning Rate: 0.000768
+Epoch: 65/200 [0/50000 (0%)]	Loss: 0.746962
+Epoch: 65/200 [12800/50000 (26%)]	Loss: 0.737735
+Epoch: 65/200 [25600/50000 (51%)]	Loss: 0.800635
+Epoch: 65/200 [38400/50000 (77%)]	Loss: 0.603374
+Epoch 65/200, Average Loss: 0.6833
+Current Learning Rate: 0.000761
+Epoch: 66/200 [0/50000 (0%)]	Loss: 0.565434
+Epoch: 66/200 [12800/50000 (26%)]	Loss: 0.675607
+Epoch: 66/200 [25600/50000 (51%)]	Loss: 0.801478
+Epoch: 66/200 [38400/50000 (77%)]	Loss: 0.632060
+Epoch 66/200, Average Loss: 0.6620
+Current Learning Rate: 0.000755
+Epoch: 67/200 [0/50000 (0%)]	Loss: 0.655565
+Epoch: 67/200 [12800/50000 (26%)]	Loss: 0.548311
+Epoch: 67/200 [25600/50000 (51%)]	Loss: 0.640351
+Epoch: 67/200 [38400/50000 (77%)]	Loss: 0.685101
+Epoch 67/200, Average Loss: 0.6583
+Current Learning Rate: 0.000748
+Epoch: 68/200 [0/50000 (0%)]	Loss: 0.514483
+Epoch: 68/200 [12800/50000 (26%)]	Loss: 0.491857
+Epoch: 68/200 [25600/50000 (51%)]	Loss: 0.571392
+Epoch: 68/200 [38400/50000 (77%)]	Loss: 0.708137
+Epoch 68/200, Average Loss: 0.6515
+Current Learning Rate: 0.000741
+Epoch: 69/200 [0/50000 (0%)]	Loss: 0.763048
+Epoch: 69/200 [12800/50000 (26%)]	Loss: 0.672245
+Epoch: 69/200 [25600/50000 (51%)]	Loss: 0.787458
+Epoch: 69/200 [38400/50000 (77%)]	Loss: 0.652630
+Epoch 69/200, Average Loss: 0.6373
+Current Learning Rate: 0.000734
+Epoch: 70/200 [0/50000 (0%)]	Loss: 0.565774
+Epoch: 70/200 [12800/50000 (26%)]	Loss: 0.589754
+Epoch: 70/200 [25600/50000 (51%)]	Loss: 0.761013
+Epoch: 70/200 [38400/50000 (77%)]	Loss: 0.594978
+Epoch 70/200, Average Loss: 0.6315
+Current Learning Rate: 0.000727
+Epoch: 71/200 [0/50000 (0%)]	Loss: 0.647754
+Epoch: 71/200 [12800/50000 (26%)]	Loss: 0.608694
+Epoch: 71/200 [25600/50000 (51%)]	Loss: 0.500120
+Epoch: 71/200 [38400/50000 (77%)]	Loss: 0.734390
+Epoch 71/200, Average Loss: 0.6301
+Current Learning Rate: 0.000720
+Epoch: 72/200 [0/50000 (0%)]	Loss: 0.539536
+Epoch: 72/200 [12800/50000 (26%)]	Loss: 0.598840
+Epoch: 72/200 [25600/50000 (51%)]	Loss: 0.562025
+Epoch: 72/200 [38400/50000 (77%)]	Loss: 0.531120
+Epoch 72/200, Average Loss: 0.6118
+Current Learning Rate: 0.000713
+Epoch: 73/200 [0/50000 (0%)]	Loss: 0.541854
+Epoch: 73/200 [12800/50000 (26%)]	Loss: 0.624010
+Epoch: 73/200 [25600/50000 (51%)]	Loss: 0.585397
+Epoch: 73/200 [38400/50000 (77%)]	Loss: 0.795394
+Epoch 73/200, Average Loss: 0.6018
+Current Learning Rate: 0.000706
+Epoch: 74/200 [0/50000 (0%)]	Loss: 0.622659
+Epoch: 74/200 [12800/50000 (26%)]	Loss: 0.574121
+Epoch: 74/200 [25600/50000 (51%)]	Loss: 0.597453
+Epoch: 74/200 [38400/50000 (77%)]	Loss: 0.563715
+Epoch 74/200, Average Loss: 0.5961
+Current Learning Rate: 0.000699
+Epoch: 75/200 [0/50000 (0%)]	Loss: 0.559538
+Epoch: 75/200 [12800/50000 (26%)]	Loss: 0.627303
+Epoch: 75/200 [25600/50000 (51%)]	Loss: 0.556834
+Epoch: 75/200 [38400/50000 (77%)]	Loss: 0.527218
+Epoch 75/200, Average Loss: 0.6047
+Current Learning Rate: 0.000691
+Epoch: 76/200 [0/50000 (0%)]	Loss: 0.560753
+Epoch: 76/200 [12800/50000 (26%)]	Loss: 0.703719
+Epoch: 76/200 [25600/50000 (51%)]	Loss: 0.675999
+Epoch: 76/200 [38400/50000 (77%)]	Loss: 0.514132
+Epoch 76/200, Average Loss: 0.5906
+Current Learning Rate: 0.000684
+Epoch: 77/200 [0/50000 (0%)]	Loss: 0.694800
+Epoch: 77/200 [12800/50000 (26%)]	Loss: 0.683122
+Epoch: 77/200 [25600/50000 (51%)]	Loss: 0.579426
+Epoch: 77/200 [38400/50000 (77%)]	Loss: 0.531276
+Epoch 77/200, Average Loss: 0.6004
+Current Learning Rate: 0.000677
+Epoch: 78/200 [0/50000 (0%)]	Loss: 0.425628
+Epoch: 78/200 [12800/50000 (26%)]	Loss: 0.706149
+Epoch: 78/200 [25600/50000 (51%)]	Loss: 0.622025
+Epoch: 78/200 [38400/50000 (77%)]	Loss: 0.485823
+Epoch 78/200, Average Loss: 0.5831
+Current Learning Rate: 0.000669
+Epoch: 79/200 [0/50000 (0%)]	Loss: 0.579309
+Epoch: 79/200 [12800/50000 (26%)]	Loss: 0.687048
+Epoch: 79/200 [25600/50000 (51%)]	Loss: 0.620996
+Epoch: 79/200 [38400/50000 (77%)]	Loss: 0.396614
+Epoch 79/200, Average Loss: 0.5571
+Current Learning Rate: 0.000662
+Epoch: 80/200 [0/50000 (0%)]	Loss: 0.691350
+Epoch: 80/200 [12800/50000 (26%)]	Loss: 0.451896
+Epoch: 80/200 [25600/50000 (51%)]	Loss: 0.583978
+Epoch: 80/200 [38400/50000 (77%)]	Loss: 0.568482
+Epoch 80/200, Average Loss: 0.5447
+Current Learning Rate: 0.000655
+Epoch: 81/200 [0/50000 (0%)]	Loss: 0.821641
+Epoch: 81/200 [12800/50000 (26%)]	Loss: 0.591307
+Epoch: 81/200 [25600/50000 (51%)]	Loss: 0.461049
+Epoch: 81/200 [38400/50000 (77%)]	Loss: 0.571405
+Epoch 81/200, Average Loss: 0.5383
+Current Learning Rate: 0.000647
+Epoch: 82/200 [0/50000 (0%)]	Loss: 0.483718
+Epoch: 82/200 [12800/50000 (26%)]	Loss: 0.458975
+Epoch: 82/200 [25600/50000 (51%)]	Loss: 0.750379
+Epoch: 82/200 [38400/50000 (77%)]	Loss: 0.474863
+Epoch 82/200, Average Loss: 0.5207
+Current Learning Rate: 0.000639
+Epoch: 83/200 [0/50000 (0%)]	Loss: 0.706926
+Epoch: 83/200 [12800/50000 (26%)]	Loss: 0.659402
+Epoch: 83/200 [25600/50000 (51%)]	Loss: 0.510871
+Epoch: 83/200 [38400/50000 (77%)]	Loss: 0.669260
+Epoch 83/200, Average Loss: 0.5191
+Current Learning Rate: 0.000632
+Epoch: 84/200 [0/50000 (0%)]	Loss: 0.383146
+Epoch: 84/200 [12800/50000 (26%)]	Loss: 0.474199
+Epoch: 84/200 [25600/50000 (51%)]	Loss: 0.510624
+Epoch: 84/200 [38400/50000 (77%)]	Loss: 0.518413
+Epoch 84/200, Average Loss: 0.4944
+Current Learning Rate: 0.000624
+Epoch: 85/200 [0/50000 (0%)]	Loss: 0.463278
+Epoch: 85/200 [12800/50000 (26%)]	Loss: 0.647841
+Epoch: 85/200 [25600/50000 (51%)]	Loss: 0.583467
+Epoch: 85/200 [38400/50000 (77%)]	Loss: 0.302998
+Epoch 85/200, Average Loss: 0.4700
+Current Learning Rate: 0.000617
+Epoch: 86/200 [0/50000 (0%)]	Loss: 0.353788
+Epoch: 86/200 [12800/50000 (26%)]	Loss: 0.631572
+Epoch: 86/200 [25600/50000 (51%)]	Loss: 0.520432
+Epoch: 86/200 [38400/50000 (77%)]	Loss: 0.458606
+Epoch 86/200, Average Loss: 0.4685
+Current Learning Rate: 0.000609
+Epoch: 87/200 [0/50000 (0%)]	Loss: 0.569639
+Epoch: 87/200 [12800/50000 (26%)]	Loss: 0.563806
+Epoch: 87/200 [25600/50000 (51%)]	Loss: 0.519910
+Epoch: 87/200 [38400/50000 (77%)]	Loss: 0.487008
+Epoch 87/200, Average Loss: 0.4520
+Current Learning Rate: 0.000601
+Epoch: 88/200 [0/50000 (0%)]	Loss: 0.777727
+Epoch: 88/200 [12800/50000 (26%)]	Loss: 0.499176
+Epoch: 88/200 [25600/50000 (51%)]	Loss: 0.702380
+Epoch: 88/200 [38400/50000 (77%)]	Loss: 0.310199
+Epoch 88/200, Average Loss: 0.4230
+Current Learning Rate: 0.000594
+Epoch: 89/200 [0/50000 (0%)]	Loss: 0.454257
+Epoch: 89/200 [12800/50000 (26%)]	Loss: 0.366807
+Epoch: 89/200 [25600/50000 (51%)]	Loss: 0.393047
+Epoch: 89/200 [38400/50000 (77%)]	Loss: 0.409315
+Epoch 89/200, Average Loss: 0.4360
+Current Learning Rate: 0.000586
+Epoch: 90/200 [0/50000 (0%)]	Loss: 0.393332
+Epoch: 90/200 [12800/50000 (26%)]	Loss: 0.371849
+Epoch: 90/200 [25600/50000 (51%)]	Loss: 0.369911
+Epoch: 90/200 [38400/50000 (77%)]	Loss: 0.427669
+Epoch 90/200, Average Loss: 0.4266
+Current Learning Rate: 0.000578
+Epoch: 91/200 [0/50000 (0%)]	Loss: 0.468919
+Epoch: 91/200 [12800/50000 (26%)]	Loss: 0.558778
+Epoch: 91/200 [25600/50000 (51%)]	Loss: 0.271574
+Epoch: 91/200 [38400/50000 (77%)]	Loss: 0.363731
+Epoch 91/200, Average Loss: 0.4111
+Current Learning Rate: 0.000570
+Epoch: 92/200 [0/50000 (0%)]	Loss: 0.380555
+Epoch: 92/200 [12800/50000 (26%)]	Loss: 0.626173
+Epoch: 92/200 [25600/50000 (51%)]	Loss: 0.341270
+Epoch: 92/200 [38400/50000 (77%)]	Loss: 0.491098
+Epoch 92/200, Average Loss: 0.3908
+Current Learning Rate: 0.000563
+Epoch: 93/200 [0/50000 (0%)]	Loss: 0.459251
+Epoch: 93/200 [12800/50000 (26%)]	Loss: 0.324094
+Epoch: 93/200 [25600/50000 (51%)]	Loss: 0.396683
+Epoch: 93/200 [38400/50000 (77%)]	Loss: 0.372278
+Epoch 93/200, Average Loss: 0.4067
+Current Learning Rate: 0.000555
+Epoch: 94/200 [0/50000 (0%)]	Loss: 0.395644
+Epoch: 94/200 [12800/50000 (26%)]	Loss: 0.488019
+Epoch: 94/200 [25600/50000 (51%)]	Loss: 0.579509
+Epoch: 94/200 [38400/50000 (77%)]	Loss: 0.437008
+Epoch 94/200, Average Loss: 0.3786
+Current Learning Rate: 0.000547
+Epoch: 95/200 [0/50000 (0%)]	Loss: 0.384737
+Epoch: 95/200 [12800/50000 (26%)]	Loss: 0.389670
+Epoch: 95/200 [25600/50000 (51%)]	Loss: 0.388991
+Epoch: 95/200 [38400/50000 (77%)]	Loss: 0.521313
+Epoch 95/200, Average Loss: 0.3795
+Current Learning Rate: 0.000539
+Epoch: 96/200 [0/50000 (0%)]	Loss: 0.467434
+Epoch: 96/200 [12800/50000 (26%)]	Loss: 0.437435
+Epoch: 96/200 [25600/50000 (51%)]	Loss: 0.446461
+Epoch: 96/200 [38400/50000 (77%)]	Loss: 0.315306
+Epoch 96/200, Average Loss: 0.3880
+Current Learning Rate: 0.000531
+Epoch: 97/200 [0/50000 (0%)]	Loss: 0.303854
+Epoch: 97/200 [12800/50000 (26%)]	Loss: 0.434108
+Epoch: 97/200 [25600/50000 (51%)]	Loss: 0.487914
+Epoch: 97/200 [38400/50000 (77%)]	Loss: 0.321574
+Epoch 97/200, Average Loss: 0.3600
+Current Learning Rate: 0.000524
+Epoch: 98/200 [0/50000 (0%)]	Loss: 0.498178
+Epoch: 98/200 [12800/50000 (26%)]	Loss: 0.244356
+Epoch: 98/200 [25600/50000 (51%)]	Loss: 0.529562
+Epoch: 98/200 [38400/50000 (77%)]	Loss: 0.308729
+Epoch 98/200, Average Loss: 0.3526
+Current Learning Rate: 0.000516
+Epoch: 99/200 [0/50000 (0%)]	Loss: 0.385512
+Epoch: 99/200 [12800/50000 (26%)]	Loss: 0.544181
+Epoch: 99/200 [25600/50000 (51%)]	Loss: 0.363949
+Epoch: 99/200 [38400/50000 (77%)]	Loss: 0.486484
+Epoch 99/200, Average Loss: 0.3482
+Current Learning Rate: 0.000508
+Epoch: 100/200 [0/50000 (0%)]	Loss: 0.255831
+Epoch: 100/200 [12800/50000 (26%)]	Loss: 0.300925
+Epoch: 100/200 [25600/50000 (51%)]	Loss: 0.317699
+Epoch: 100/200 [38400/50000 (77%)]	Loss: 0.373736
+Epoch 100/200, Average Loss: 0.3390
+Current Learning Rate: 0.000500
+Epoch: 101/200 [0/50000 (0%)]	Loss: 0.529310
+Epoch: 101/200 [12800/50000 (26%)]	Loss: 0.281573
+Epoch: 101/200 [25600/50000 (51%)]	Loss: 0.263119
+Epoch: 101/200 [38400/50000 (77%)]	Loss: 0.180988
+Epoch 101/200, Average Loss: 0.3371
+Current Learning Rate: 0.000492
+Epoch: 102/200 [0/50000 (0%)]	Loss: 0.294402
+Epoch: 102/200 [12800/50000 (26%)]	Loss: 0.270722
+Epoch: 102/200 [25600/50000 (51%)]	Loss: 0.246657
+Epoch: 102/200 [38400/50000 (77%)]	Loss: 0.498173
+Epoch 102/200, Average Loss: 0.3182
+Current Learning Rate: 0.000484
+Epoch: 103/200 [0/50000 (0%)]	Loss: 0.574730
+Epoch: 103/200 [12800/50000 (26%)]	Loss: 0.467451
+Epoch: 103/200 [25600/50000 (51%)]	Loss: 0.315500
+Epoch: 103/200 [38400/50000 (77%)]	Loss: 0.241853
+Epoch 103/200, Average Loss: 0.3222
+Current Learning Rate: 0.000476
+Epoch: 104/200 [0/50000 (0%)]	Loss: 0.280943
+Epoch: 104/200 [12800/50000 (26%)]	Loss: 0.299584
+Epoch: 104/200 [25600/50000 (51%)]	Loss: 0.199957
+Epoch: 104/200 [38400/50000 (77%)]	Loss: 0.362562
+Epoch 104/200, Average Loss: 0.3062
+Current Learning Rate: 0.000469
+Epoch: 105/200 [0/50000 (0%)]	Loss: 0.304417
+Epoch: 105/200 [12800/50000 (26%)]	Loss: 0.165463
+Epoch: 105/200 [25600/50000 (51%)]	Loss: 0.528943
+Epoch: 105/200 [38400/50000 (77%)]	Loss: 0.244417
+Epoch 105/200, Average Loss: 0.2985
+Current Learning Rate: 0.000461
+Epoch: 106/200 [0/50000 (0%)]	Loss: 0.321028
+Epoch: 106/200 [12800/50000 (26%)]	Loss: 0.255201
+Epoch: 106/200 [25600/50000 (51%)]	Loss: 0.300388
+Epoch: 106/200 [38400/50000 (77%)]	Loss: 0.366009
+Epoch 106/200, Average Loss: 0.3062
+Current Learning Rate: 0.000453
+Epoch: 107/200 [0/50000 (0%)]	Loss: 0.302433
+Epoch: 107/200 [12800/50000 (26%)]	Loss: 0.486477
+Epoch: 107/200 [25600/50000 (51%)]	Loss: 0.335762
+Epoch: 107/200 [38400/50000 (77%)]	Loss: 0.171836
+Epoch 107/200, Average Loss: 0.2997
+Current Learning Rate: 0.000445
+Epoch: 108/200 [0/50000 (0%)]	Loss: 0.296470
+Epoch: 108/200 [12800/50000 (26%)]	Loss: 0.443192
+Epoch: 108/200 [25600/50000 (51%)]	Loss: 0.323063
+Epoch: 108/200 [38400/50000 (77%)]	Loss: 0.274926
+Epoch 108/200, Average Loss: 0.2800
+Current Learning Rate: 0.000437
+Epoch: 109/200 [0/50000 (0%)]	Loss: 0.464379
+Epoch: 109/200 [12800/50000 (26%)]	Loss: 0.304583
+Epoch: 109/200 [25600/50000 (51%)]	Loss: 0.380079
+Epoch: 109/200 [38400/50000 (77%)]	Loss: 0.255142
+Epoch 109/200, Average Loss: 0.2726
+Current Learning Rate: 0.000430
+Epoch: 110/200 [0/50000 (0%)]	Loss: 0.101388
+Epoch: 110/200 [12800/50000 (26%)]	Loss: 0.113150
+Epoch: 110/200 [25600/50000 (51%)]	Loss: 0.277643
+Epoch: 110/200 [38400/50000 (77%)]	Loss: 0.238489
+Epoch 110/200, Average Loss: 0.2609
+Current Learning Rate: 0.000422
+Epoch: 111/200 [0/50000 (0%)]	Loss: 0.205742
+Epoch: 111/200 [12800/50000 (26%)]	Loss: 0.304305
+Epoch: 111/200 [25600/50000 (51%)]	Loss: 0.266863
+Epoch: 111/200 [38400/50000 (77%)]	Loss: 0.152864
+Epoch 111/200, Average Loss: 0.2549
+Current Learning Rate: 0.000414
+Epoch: 112/200 [0/50000 (0%)]	Loss: 0.311191
+Epoch: 112/200 [12800/50000 (26%)]	Loss: 0.319586
+Epoch: 112/200 [25600/50000 (51%)]	Loss: 0.277195
+Epoch: 112/200 [38400/50000 (77%)]	Loss: 0.206038
+Epoch 112/200, Average Loss: 0.2426
+Current Learning Rate: 0.000406
+Epoch: 113/200 [0/50000 (0%)]	Loss: 0.321737
+Epoch: 113/200 [12800/50000 (26%)]	Loss: 0.282327
+Epoch: 113/200 [25600/50000 (51%)]	Loss: 0.279644
+Epoch: 113/200 [38400/50000 (77%)]	Loss: 0.288759
+Epoch 113/200, Average Loss: 0.2523
+Current Learning Rate: 0.000399
+Epoch: 114/200 [0/50000 (0%)]	Loss: 0.234199
+Epoch: 114/200 [12800/50000 (26%)]	Loss: 0.197699
+Epoch: 114/200 [25600/50000 (51%)]	Loss: 0.298484
+Epoch: 114/200 [38400/50000 (77%)]	Loss: 0.305758
+Epoch 114/200, Average Loss: 0.2469
+Current Learning Rate: 0.000391
+Epoch: 115/200 [0/50000 (0%)]	Loss: -0.022047
+Epoch: 115/200 [12800/50000 (26%)]	Loss: 0.358703
+Epoch: 115/200 [25600/50000 (51%)]	Loss: 0.303963
+Epoch: 115/200 [38400/50000 (77%)]	Loss: 0.267858
+Epoch 115/200, Average Loss: 0.2340
+Current Learning Rate: 0.000383
+Epoch: 116/200 [0/50000 (0%)]	Loss: 0.505877
+Epoch: 116/200 [12800/50000 (26%)]	Loss: 0.074327
+Epoch: 116/200 [25600/50000 (51%)]	Loss: 0.177965
+Epoch: 116/200 [38400/50000 (77%)]	Loss: 0.192421
+Epoch 116/200, Average Loss: 0.2198
+Current Learning Rate: 0.000376
+Epoch: 117/200 [0/50000 (0%)]	Loss: 0.226682
+Epoch: 117/200 [12800/50000 (26%)]	Loss: 0.148893
+Epoch: 117/200 [25600/50000 (51%)]	Loss: 0.195745
+Epoch: 117/200 [38400/50000 (77%)]	Loss: 0.150777
+Epoch 117/200, Average Loss: 0.2163
+Current Learning Rate: 0.000368
+Epoch: 118/200 [0/50000 (0%)]	Loss: 0.263419
+Epoch: 118/200 [12800/50000 (26%)]	Loss: 0.157191
+Epoch: 118/200 [25600/50000 (51%)]	Loss: 0.248468
+Epoch: 118/200 [38400/50000 (77%)]	Loss: 0.292867
+Epoch 118/200, Average Loss: 0.2181
+Current Learning Rate: 0.000361
+Epoch: 119/200 [0/50000 (0%)]	Loss: 0.151282
+Epoch: 119/200 [12800/50000 (26%)]	Loss: 0.119526
+Epoch: 119/200 [25600/50000 (51%)]	Loss: 0.151719
+Epoch: 119/200 [38400/50000 (77%)]	Loss: 0.192860
+Epoch 119/200, Average Loss: 0.2089
+Current Learning Rate: 0.000353
+Epoch: 120/200 [0/50000 (0%)]	Loss: 0.254008
+Epoch: 120/200 [12800/50000 (26%)]	Loss: 0.336146
+Epoch: 120/200 [25600/50000 (51%)]	Loss: 0.237786
+Epoch: 120/200 [38400/50000 (77%)]	Loss: 0.227033
+Epoch 120/200, Average Loss: 0.1973
+Current Learning Rate: 0.000345
+Epoch: 121/200 [0/50000 (0%)]	Loss: 0.185355
+Epoch: 121/200 [12800/50000 (26%)]	Loss: 0.289477
+Epoch: 121/200 [25600/50000 (51%)]	Loss: 0.464221
+Epoch: 121/200 [38400/50000 (77%)]	Loss: 0.185111
+Epoch 121/200, Average Loss: 0.1960
+Current Learning Rate: 0.000338
+Epoch: 122/200 [0/50000 (0%)]	Loss: 0.268725
+Epoch: 122/200 [12800/50000 (26%)]	Loss: -0.045576
+Epoch: 122/200 [25600/50000 (51%)]	Loss: 0.193233
+Epoch: 122/200 [38400/50000 (77%)]	Loss: 0.200101
+Epoch 122/200, Average Loss: 0.1797
+Current Learning Rate: 0.000331
+Epoch: 123/200 [0/50000 (0%)]	Loss: 0.162457
+Epoch: 123/200 [12800/50000 (26%)]	Loss: 0.009278
+Epoch: 123/200 [25600/50000 (51%)]	Loss: 0.219816
+Epoch: 123/200 [38400/50000 (77%)]	Loss: 0.234272
+Epoch 123/200, Average Loss: 0.1669
+Current Learning Rate: 0.000323
+Epoch: 124/200 [0/50000 (0%)]	Loss: 0.152974
+Epoch: 124/200 [12800/50000 (26%)]	Loss: 0.156879
+Epoch: 124/200 [25600/50000 (51%)]	Loss: 0.068755
+Epoch: 124/200 [38400/50000 (77%)]	Loss: 0.176082
+Epoch 124/200, Average Loss: 0.1731
+Current Learning Rate: 0.000316
+Epoch: 125/200 [0/50000 (0%)]	Loss: 0.000269
+Epoch: 125/200 [12800/50000 (26%)]	Loss: 0.208395
+Epoch: 125/200 [25600/50000 (51%)]	Loss: 0.189088
+Epoch: 125/200 [38400/50000 (77%)]	Loss: 0.090722
+Epoch 125/200, Average Loss: 0.1760
+Current Learning Rate: 0.000309
+Epoch: 126/200 [0/50000 (0%)]	Loss: 0.230573
+Epoch: 126/200 [12800/50000 (26%)]	Loss: 0.204566
+Epoch: 126/200 [25600/50000 (51%)]	Loss: 0.064265
+Epoch: 126/200 [38400/50000 (77%)]	Loss: 0.282556
+Epoch 126/200, Average Loss: 0.1744
+Current Learning Rate: 0.000301
+Epoch: 127/200 [0/50000 (0%)]	Loss: 0.106652
+Epoch: 127/200 [12800/50000 (26%)]	Loss: 0.202791
+Epoch: 127/200 [25600/50000 (51%)]	Loss: 0.156704
+Epoch: 127/200 [38400/50000 (77%)]	Loss: -0.000447
+Epoch 127/200, Average Loss: 0.1606
+Current Learning Rate: 0.000294
+Epoch: 128/200 [0/50000 (0%)]	Loss: 0.125199
+Epoch: 128/200 [12800/50000 (26%)]	Loss: 0.091444
+Epoch: 128/200 [25600/50000 (51%)]	Loss: 0.162132
+Epoch: 128/200 [38400/50000 (77%)]	Loss: 0.228442
+Epoch 128/200, Average Loss: 0.1485
+Current Learning Rate: 0.000287
+Epoch: 129/200 [0/50000 (0%)]	Loss: 0.094136
+Epoch: 129/200 [12800/50000 (26%)]	Loss: 0.153363
+Epoch: 129/200 [25600/50000 (51%)]	Loss: 0.116862
+Epoch: 129/200 [38400/50000 (77%)]	Loss: 0.274094
+Epoch 129/200, Average Loss: 0.1465
+Current Learning Rate: 0.000280
+Epoch: 130/200 [0/50000 (0%)]	Loss: -0.018679
+Epoch: 130/200 [12800/50000 (26%)]	Loss: 0.083080
+Epoch: 130/200 [25600/50000 (51%)]	Loss: 0.071255
+Epoch: 130/200 [38400/50000 (77%)]	Loss: 0.023674
+Epoch 130/200, Average Loss: 0.1375
+Current Learning Rate: 0.000273
+Epoch: 131/200 [0/50000 (0%)]	Loss: 0.329315
+Epoch: 131/200 [12800/50000 (26%)]	Loss: 0.239817
+Epoch: 131/200 [25600/50000 (51%)]	Loss: 0.266560
+Epoch: 131/200 [38400/50000 (77%)]	Loss: 0.077286
+Epoch 131/200, Average Loss: 0.1289
+Current Learning Rate: 0.000266
+Epoch: 132/200 [0/50000 (0%)]	Loss: 0.162921
+Epoch: 132/200 [12800/50000 (26%)]	Loss: 0.055882
+Epoch: 132/200 [25600/50000 (51%)]	Loss: 0.057903
+Epoch: 132/200 [38400/50000 (77%)]	Loss: 0.231438
+Epoch 132/200, Average Loss: 0.1271
+Current Learning Rate: 0.000259
+Epoch: 133/200 [0/50000 (0%)]	Loss: 0.047383
+Epoch: 133/200 [12800/50000 (26%)]	Loss: 0.212209
+Epoch: 133/200 [25600/50000 (51%)]	Loss: 0.127707
+Epoch: 133/200 [38400/50000 (77%)]	Loss: 0.364029
+Epoch 133/200, Average Loss: 0.1309
+Current Learning Rate: 0.000252
+Epoch: 134/200 [0/50000 (0%)]	Loss: 0.223289
+Epoch: 134/200 [12800/50000 (26%)]	Loss: 0.157304
+Epoch: 134/200 [25600/50000 (51%)]	Loss: 0.215906
+Epoch: 134/200 [38400/50000 (77%)]	Loss: 0.115527
+Epoch 134/200, Average Loss: 0.1270
+Current Learning Rate: 0.000245
+Epoch: 135/200 [0/50000 (0%)]	Loss: 0.003444
+Epoch: 135/200 [12800/50000 (26%)]	Loss: 0.130065
+Epoch: 135/200 [25600/50000 (51%)]	Loss: 0.081982
+Epoch: 135/200 [38400/50000 (77%)]	Loss: 0.081168
+Epoch 135/200, Average Loss: 0.1091
+Current Learning Rate: 0.000239
+Epoch: 136/200 [0/50000 (0%)]	Loss: 0.015486
+Epoch: 136/200 [12800/50000 (26%)]	Loss: 0.095906
+Epoch: 136/200 [25600/50000 (51%)]	Loss: 0.085604
+Epoch: 136/200 [38400/50000 (77%)]	Loss: 0.077860
+Epoch 136/200, Average Loss: 0.0993
+Current Learning Rate: 0.000232
+Epoch: 137/200 [0/50000 (0%)]	Loss: -0.026875
+Epoch: 137/200 [12800/50000 (26%)]	Loss: -0.042863
+Epoch: 137/200 [25600/50000 (51%)]	Loss: 0.147585
+Epoch: 137/200 [38400/50000 (77%)]	Loss: -0.093551
+Epoch 137/200, Average Loss: 0.0950
+Current Learning Rate: 0.000225
+Epoch: 138/200 [0/50000 (0%)]	Loss: -0.099325
+Epoch: 138/200 [12800/50000 (26%)]	Loss: 0.199701
+Epoch: 138/200 [25600/50000 (51%)]	Loss: 0.024236
+Epoch: 138/200 [38400/50000 (77%)]	Loss: -0.027433
+Epoch 138/200, Average Loss: 0.0983
+Current Learning Rate: 0.000219
+Epoch: 139/200 [0/50000 (0%)]	Loss: 0.012152
+Epoch: 139/200 [12800/50000 (26%)]	Loss: 0.173974
+Epoch: 139/200 [25600/50000 (51%)]	Loss: -0.019785
+Epoch: 139/200 [38400/50000 (77%)]	Loss: 0.102861
+Epoch 139/200, Average Loss: 0.0989
+Current Learning Rate: 0.000212
+Epoch: 140/200 [0/50000 (0%)]	Loss: 0.031261
+Epoch: 140/200 [12800/50000 (26%)]	Loss: 0.108952
+Epoch: 140/200 [25600/50000 (51%)]	Loss: 0.230175
+Epoch: 140/200 [38400/50000 (77%)]	Loss: 0.227636
+Epoch 140/200, Average Loss: 0.0837
+Current Learning Rate: 0.000206
+Epoch: 141/200 [0/50000 (0%)]	Loss: 0.170617
+Epoch: 141/200 [12800/50000 (26%)]	Loss: 0.198458
+Epoch: 141/200 [25600/50000 (51%)]	Loss: 0.144834
+Epoch: 141/200 [38400/50000 (77%)]	Loss: 0.304943
+Epoch 141/200, Average Loss: 0.0947
+Current Learning Rate: 0.000200
+Epoch: 142/200 [0/50000 (0%)]	Loss: -0.061316
+Epoch: 142/200 [12800/50000 (26%)]	Loss: 0.149454
+Epoch: 142/200 [25600/50000 (51%)]	Loss: 0.179460
+Epoch: 142/200 [38400/50000 (77%)]	Loss: 0.098435
+Epoch 142/200, Average Loss: 0.0769
+Current Learning Rate: 0.000194
+Epoch: 143/200 [0/50000 (0%)]	Loss: 0.006098
+Epoch: 143/200 [12800/50000 (26%)]	Loss: 0.134083
+Epoch: 143/200 [25600/50000 (51%)]	Loss: -0.039389
+Epoch: 143/200 [38400/50000 (77%)]	Loss: 0.141535
+Epoch 143/200, Average Loss: 0.0789
+Current Learning Rate: 0.000187
+Epoch: 144/200 [0/50000 (0%)]	Loss: 0.258595
+Epoch: 144/200 [12800/50000 (26%)]	Loss: 0.112518
+Epoch: 144/200 [25600/50000 (51%)]	Loss: 0.120039
+Epoch: 144/200 [38400/50000 (77%)]	Loss: -0.071332
+Epoch 144/200, Average Loss: 0.0761
+Current Learning Rate: 0.000181
+Epoch: 145/200 [0/50000 (0%)]	Loss: 0.171160
+Epoch: 145/200 [12800/50000 (26%)]	Loss: 0.006369
+Epoch: 145/200 [25600/50000 (51%)]	Loss: -0.035256
+Epoch: 145/200 [38400/50000 (77%)]	Loss: 0.029109
+Epoch 145/200, Average Loss: 0.0590
+Current Learning Rate: 0.000175
+Epoch: 146/200 [0/50000 (0%)]	Loss: 0.056077
+Epoch: 146/200 [12800/50000 (26%)]	Loss: 0.118585
+Epoch: 146/200 [25600/50000 (51%)]	Loss: 0.010594
+Epoch: 146/200 [38400/50000 (77%)]	Loss: 0.101770
+Epoch 146/200, Average Loss: 0.0593
+Current Learning Rate: 0.000169
+Epoch: 147/200 [0/50000 (0%)]	Loss: 0.070248
+Epoch: 147/200 [12800/50000 (26%)]	Loss: 0.090647
+Epoch: 147/200 [25600/50000 (51%)]	Loss: 0.126739
+Epoch: 147/200 [38400/50000 (77%)]	Loss: 0.101512
+Epoch 147/200, Average Loss: 0.0579
+Current Learning Rate: 0.000163
+Epoch: 148/200 [0/50000 (0%)]	Loss: -0.074320
+Epoch: 148/200 [12800/50000 (26%)]	Loss: -0.084837
+Epoch: 148/200 [25600/50000 (51%)]	Loss: 0.043444
+Epoch: 148/200 [38400/50000 (77%)]	Loss: 0.003610
+Epoch 148/200, Average Loss: 0.0538
+Current Learning Rate: 0.000158
+Epoch: 149/200 [0/50000 (0%)]	Loss: -0.001445
+Epoch: 149/200 [12800/50000 (26%)]	Loss: 0.160758
+Epoch: 149/200 [25600/50000 (51%)]	Loss: 0.069008
+Epoch: 149/200 [38400/50000 (77%)]	Loss: 0.030223
+Epoch 149/200, Average Loss: 0.0642
+Current Learning Rate: 0.000152
+Epoch: 150/200 [0/50000 (0%)]	Loss: 0.145560
+Epoch: 150/200 [12800/50000 (26%)]	Loss: 0.027338
+Epoch: 150/200 [25600/50000 (51%)]	Loss: 0.156920
+Epoch: 150/200 [38400/50000 (77%)]	Loss: 0.213432
+Epoch 150/200, Average Loss: 0.0547
+Current Learning Rate: 0.000146
+Epoch: 151/200 [0/50000 (0%)]	Loss: 0.288752
+Epoch: 151/200 [12800/50000 (26%)]	Loss: 0.221981
+Epoch: 151/200 [25600/50000 (51%)]	Loss: -0.026248
+Epoch: 151/200 [38400/50000 (77%)]	Loss: 0.152841
+Epoch 151/200, Average Loss: 0.0497
+Current Learning Rate: 0.000141
+Epoch: 152/200 [0/50000 (0%)]	Loss: 0.100955
+Epoch: 152/200 [12800/50000 (26%)]	Loss: 0.000654
+Epoch: 152/200 [25600/50000 (51%)]	Loss: 0.165750
+Epoch: 152/200 [38400/50000 (77%)]	Loss: 0.139835
+Epoch 152/200, Average Loss: 0.0467
+Current Learning Rate: 0.000136
+Epoch: 153/200 [0/50000 (0%)]	Loss: 0.091443
+Epoch: 153/200 [12800/50000 (26%)]	Loss: -0.018232
+Epoch: 153/200 [25600/50000 (51%)]	Loss: -0.013827
+Epoch: 153/200 [38400/50000 (77%)]	Loss: -0.029092
+Epoch 153/200, Average Loss: 0.0439
+Current Learning Rate: 0.000130
+Epoch: 154/200 [0/50000 (0%)]	Loss: 0.174220
+Epoch: 154/200 [12800/50000 (26%)]	Loss: 0.021489
+Epoch: 154/200 [25600/50000 (51%)]	Loss: 0.019851
+Epoch: 154/200 [38400/50000 (77%)]	Loss: 0.129257
+Epoch 154/200, Average Loss: 0.0375
+Current Learning Rate: 0.000125
+Epoch: 155/200 [0/50000 (0%)]	Loss: 0.057996
+Epoch: 155/200 [12800/50000 (26%)]	Loss: 0.115763
+Epoch: 155/200 [25600/50000 (51%)]	Loss: 0.048035
+Epoch: 155/200 [38400/50000 (77%)]	Loss: 0.082395
+Epoch 155/200, Average Loss: 0.0333
+Current Learning Rate: 0.000120
+Epoch: 156/200 [0/50000 (0%)]	Loss: 0.134138
+Epoch: 156/200 [12800/50000 (26%)]	Loss: 0.169976
+Epoch: 156/200 [25600/50000 (51%)]	Loss: -0.043827
+Epoch: 156/200 [38400/50000 (77%)]	Loss: -0.057914
+Epoch 156/200, Average Loss: 0.0403
+Current Learning Rate: 0.000115
+Epoch: 157/200 [0/50000 (0%)]	Loss: -0.062814
+Epoch: 157/200 [12800/50000 (26%)]	Loss: 0.071758
+Epoch: 157/200 [25600/50000 (51%)]	Loss: -0.115581
+Epoch: 157/200 [38400/50000 (77%)]	Loss: -0.057884
+Epoch 157/200, Average Loss: 0.0387
+Current Learning Rate: 0.000110
+Epoch: 158/200 [0/50000 (0%)]	Loss: -0.038279
+Epoch: 158/200 [12800/50000 (26%)]	Loss: -0.080373
+Epoch: 158/200 [25600/50000 (51%)]	Loss: 0.159893
+Epoch: 158/200 [38400/50000 (77%)]	Loss: 0.126835
+Epoch 158/200, Average Loss: 0.0269
+Current Learning Rate: 0.000105
+Epoch: 159/200 [0/50000 (0%)]	Loss: 0.029664
+Epoch: 159/200 [12800/50000 (26%)]	Loss: -0.047074
+Epoch: 159/200 [25600/50000 (51%)]	Loss: -0.034056
+Epoch: 159/200 [38400/50000 (77%)]	Loss: -0.171716
+Epoch 159/200, Average Loss: 0.0235
+Current Learning Rate: 0.000100
+Epoch: 160/200 [0/50000 (0%)]	Loss: 0.077198
+Epoch: 160/200 [12800/50000 (26%)]	Loss: -0.054722
+Epoch: 160/200 [25600/50000 (51%)]	Loss: -0.031944
+Epoch: 160/200 [38400/50000 (77%)]	Loss: 0.042004
+Epoch 160/200, Average Loss: 0.0272
+Current Learning Rate: 0.000095
+Epoch: 161/200 [0/50000 (0%)]	Loss: 0.020616
+Epoch: 161/200 [12800/50000 (26%)]	Loss: -0.023955
+Epoch: 161/200 [25600/50000 (51%)]	Loss: 0.037531
+Epoch: 161/200 [38400/50000 (77%)]	Loss: -0.090818
+Epoch 161/200, Average Loss: 0.0191
+Current Learning Rate: 0.000091
+Epoch: 162/200 [0/50000 (0%)]	Loss: 0.107009
+Epoch: 162/200 [12800/50000 (26%)]	Loss: 0.019210
+Epoch: 162/200 [25600/50000 (51%)]	Loss: -0.094770
+Epoch: 162/200 [38400/50000 (77%)]	Loss: -0.052846
+Epoch 162/200, Average Loss: 0.0039
+Current Learning Rate: 0.000086
+Epoch: 163/200 [0/50000 (0%)]	Loss: 0.059075
+Epoch: 163/200 [12800/50000 (26%)]	Loss: 0.134353
+Epoch: 163/200 [25600/50000 (51%)]	Loss: -0.034032
+Epoch: 163/200 [38400/50000 (77%)]	Loss: 0.155856
+Epoch 163/200, Average Loss: 0.0123
+Current Learning Rate: 0.000082
+Epoch: 164/200 [0/50000 (0%)]	Loss: -0.048123
+Epoch: 164/200 [12800/50000 (26%)]	Loss: -0.009834
+Epoch: 164/200 [25600/50000 (51%)]	Loss: 0.034836
+Epoch: 164/200 [38400/50000 (77%)]	Loss: 0.041190
+Epoch 164/200, Average Loss: -0.0026
+Current Learning Rate: 0.000078
+Epoch: 165/200 [0/50000 (0%)]	Loss: 0.051135
+Epoch: 165/200 [12800/50000 (26%)]	Loss: -0.008533
+Epoch: 165/200 [25600/50000 (51%)]	Loss: 0.087604
+Epoch: 165/200 [38400/50000 (77%)]	Loss: 0.129285
+Epoch 165/200, Average Loss: 0.0055
+Current Learning Rate: 0.000074
+Epoch: 166/200 [0/50000 (0%)]	Loss: 0.112023
+Epoch: 166/200 [12800/50000 (26%)]	Loss: 0.131844
+Epoch: 166/200 [25600/50000 (51%)]	Loss: 0.061651
+Epoch: 166/200 [38400/50000 (77%)]	Loss: 0.221989
+Epoch 166/200, Average Loss: 0.0099
+Current Learning Rate: 0.000070
+Epoch: 167/200 [0/50000 (0%)]	Loss: -0.008219
+Epoch: 167/200 [12800/50000 (26%)]	Loss: -0.052968
+Epoch: 167/200 [25600/50000 (51%)]	Loss: 0.030863
+Epoch: 167/200 [38400/50000 (77%)]	Loss: 0.020339
+Epoch 167/200, Average Loss: 0.0112
+Current Learning Rate: 0.000066
+Epoch: 168/200 [0/50000 (0%)]	Loss: -0.073228
+Epoch: 168/200 [12800/50000 (26%)]	Loss: 0.100678
+Epoch: 168/200 [25600/50000 (51%)]	Loss: -0.096773
+Epoch: 168/200 [38400/50000 (77%)]	Loss: 0.068500
+Epoch 168/200, Average Loss: -0.0024
+Current Learning Rate: 0.000062
+Epoch: 169/200 [0/50000 (0%)]	Loss: -0.063834
+Epoch: 169/200 [12800/50000 (26%)]	Loss: 0.043971
+Epoch: 169/200 [25600/50000 (51%)]	Loss: 0.111294
+Epoch: 169/200 [38400/50000 (77%)]	Loss: -0.045655
+Epoch 169/200, Average Loss: -0.0044
+Current Learning Rate: 0.000058
+Epoch: 170/200 [0/50000 (0%)]	Loss: 0.067436
+Epoch: 170/200 [12800/50000 (26%)]	Loss: 0.075185
+Epoch: 170/200 [25600/50000 (51%)]	Loss: -0.048961
+Epoch: 170/200 [38400/50000 (77%)]	Loss: 0.005845
+Epoch 170/200, Average Loss: 0.0023
+Current Learning Rate: 0.000054
+Epoch: 171/200 [0/50000 (0%)]	Loss: 0.021911
+Epoch: 171/200 [12800/50000 (26%)]	Loss: -0.075670
+Epoch: 171/200 [25600/50000 (51%)]	Loss: 0.021355
+Epoch: 171/200 [38400/50000 (77%)]	Loss: 0.110067
+Epoch 171/200, Average Loss: -0.0045
+Current Learning Rate: 0.000051
+Epoch: 172/200 [0/50000 (0%)]	Loss: -0.048007
+Epoch: 172/200 [12800/50000 (26%)]	Loss: -0.110172
+Epoch: 172/200 [25600/50000 (51%)]	Loss: 0.026154
+Epoch: 172/200 [38400/50000 (77%)]	Loss: 0.017005
+Epoch 172/200, Average Loss: -0.0000
+Current Learning Rate: 0.000048
+Epoch: 173/200 [0/50000 (0%)]	Loss: 0.005353
+Epoch: 173/200 [12800/50000 (26%)]	Loss: -0.060917
+Epoch: 173/200 [25600/50000 (51%)]	Loss: 0.021268
+Epoch: 173/200 [38400/50000 (77%)]	Loss: -0.023242
+Epoch 173/200, Average Loss: -0.0152
+Current Learning Rate: 0.000044
+Epoch: 174/200 [0/50000 (0%)]	Loss: 0.041267
+Epoch: 174/200 [12800/50000 (26%)]	Loss: 0.023277
+Epoch: 174/200 [25600/50000 (51%)]	Loss: -0.132484
+Epoch: 174/200 [38400/50000 (77%)]	Loss: -0.051625
+Epoch 174/200, Average Loss: -0.0154
+Current Learning Rate: 0.000041
+Epoch: 175/200 [0/50000 (0%)]	Loss: -0.137537
+Epoch: 175/200 [12800/50000 (26%)]	Loss: -0.060864
+Epoch: 175/200 [25600/50000 (51%)]	Loss: -0.007199
+Epoch: 175/200 [38400/50000 (77%)]	Loss: 0.000072
+Epoch 175/200, Average Loss: -0.0182
+Current Learning Rate: 0.000038
+Epoch: 176/200 [0/50000 (0%)]	Loss: 0.041042
+Epoch: 176/200 [12800/50000 (26%)]	Loss: 0.115374
+Epoch: 176/200 [25600/50000 (51%)]	Loss: -0.031726
+Epoch: 176/200 [38400/50000 (77%)]	Loss: 0.037465
+Epoch 176/200, Average Loss: -0.0111
+Current Learning Rate: 0.000035
+Epoch: 177/200 [0/50000 (0%)]	Loss: -0.046949
+Epoch: 177/200 [12800/50000 (26%)]	Loss: -0.055488
+Epoch: 177/200 [25600/50000 (51%)]	Loss: 0.042450
+Epoch: 177/200 [38400/50000 (77%)]	Loss: -0.086738
+Epoch 177/200, Average Loss: -0.0125
+Current Learning Rate: 0.000032
+Epoch: 178/200 [0/50000 (0%)]	Loss: -0.156552
+Epoch: 178/200 [12800/50000 (26%)]	Loss: 0.028367
+Epoch: 178/200 [25600/50000 (51%)]	Loss: 0.143336
+Epoch: 178/200 [38400/50000 (77%)]	Loss: -0.079236
+Epoch 178/200, Average Loss: -0.0157
+Current Learning Rate: 0.000030
+Epoch: 179/200 [0/50000 (0%)]	Loss: 0.021597
+Epoch: 179/200 [12800/50000 (26%)]	Loss: 0.058632
+Epoch: 179/200 [25600/50000 (51%)]	Loss: -0.053525
+Epoch: 179/200 [38400/50000 (77%)]	Loss: 0.038298
+Epoch 179/200, Average Loss: -0.0194
+Current Learning Rate: 0.000027
+Epoch: 180/200 [0/50000 (0%)]	Loss: -0.044853
+Epoch: 180/200 [12800/50000 (26%)]	Loss: -0.062127
+Epoch: 180/200 [25600/50000 (51%)]	Loss: -0.058033
+Epoch: 180/200 [38400/50000 (77%)]	Loss: -0.133883
+Epoch 180/200, Average Loss: -0.0190
+Current Learning Rate: 0.000024
+Epoch: 181/200 [0/50000 (0%)]	Loss: -0.076124
+Epoch: 181/200 [12800/50000 (26%)]	Loss: -0.003227
+Epoch: 181/200 [25600/50000 (51%)]	Loss: -0.022020
+Epoch: 181/200 [38400/50000 (77%)]	Loss: -0.176362
+Epoch 181/200, Average Loss: -0.0152
+Current Learning Rate: 0.000022
+Epoch: 182/200 [0/50000 (0%)]	Loss: 0.070523
+Epoch: 182/200 [12800/50000 (26%)]	Loss: -0.035372
+Epoch: 182/200 [25600/50000 (51%)]	Loss: 0.002484
+Epoch: 182/200 [38400/50000 (77%)]	Loss: 0.082957
+Epoch 182/200, Average Loss: -0.0198
+Current Learning Rate: 0.000020
+Epoch: 183/200 [0/50000 (0%)]	Loss: 0.141724
+Epoch: 183/200 [12800/50000 (26%)]	Loss: 0.076634
+Epoch: 183/200 [25600/50000 (51%)]	Loss: 0.032482
+Epoch: 183/200 [38400/50000 (77%)]	Loss: -0.064359
+Epoch 183/200, Average Loss: -0.0239
+Current Learning Rate: 0.000018
+Epoch: 184/200 [0/50000 (0%)]	Loss: 0.039025
+Epoch: 184/200 [12800/50000 (26%)]	Loss: -0.092904
+Epoch: 184/200 [25600/50000 (51%)]	Loss: -0.009349
+Epoch: 184/200 [38400/50000 (77%)]	Loss: 0.009890
+Epoch 184/200, Average Loss: -0.0123
+Current Learning Rate: 0.000016
+Epoch: 185/200 [0/50000 (0%)]	Loss: -0.114650
+Epoch: 185/200 [12800/50000 (26%)]	Loss: 0.039635
+Epoch: 185/200 [25600/50000 (51%)]	Loss: -0.140786
+Epoch: 185/200 [38400/50000 (77%)]	Loss: 0.026172
+Epoch 185/200, Average Loss: -0.0229
+Current Learning Rate: 0.000014
+Epoch: 186/200 [0/50000 (0%)]	Loss: -0.054601
+Epoch: 186/200 [12800/50000 (26%)]	Loss: 0.043459
+Epoch: 186/200 [25600/50000 (51%)]	Loss: -0.121200
+Epoch: 186/200 [38400/50000 (77%)]	Loss: -0.107607
+Epoch 186/200, Average Loss: -0.0186
+Current Learning Rate: 0.000012
+Epoch: 187/200 [0/50000 (0%)]	Loss: 0.014189
+Epoch: 187/200 [12800/50000 (26%)]	Loss: 0.083019
+Epoch: 187/200 [25600/50000 (51%)]	Loss: 0.086791
+Epoch: 187/200 [38400/50000 (77%)]	Loss: -0.029059
+Epoch 187/200, Average Loss: -0.0172
+Current Learning Rate: 0.000010
+Epoch: 188/200 [0/50000 (0%)]	Loss: 0.053265
+Epoch: 188/200 [12800/50000 (26%)]	Loss: -0.123468
+Epoch: 188/200 [25600/50000 (51%)]	Loss: -0.130709
+Epoch: 188/200 [38400/50000 (77%)]	Loss: -0.100213
+Epoch 188/200, Average Loss: -0.0263
+Current Learning Rate: 0.000009
+Epoch: 189/200 [0/50000 (0%)]	Loss: 0.096706
+Epoch: 189/200 [12800/50000 (26%)]	Loss: 0.017200
+Epoch: 189/200 [25600/50000 (51%)]	Loss: -0.035303
+Epoch: 189/200 [38400/50000 (77%)]	Loss: -0.099097
+Epoch 189/200, Average Loss: -0.0253
+Current Learning Rate: 0.000007
+Epoch: 190/200 [0/50000 (0%)]	Loss: -0.018670
+Epoch: 190/200 [12800/50000 (26%)]	Loss: -0.005521
+Epoch: 190/200 [25600/50000 (51%)]	Loss: -0.004682
+Epoch: 190/200 [38400/50000 (77%)]	Loss: -0.114353
+Epoch 190/200, Average Loss: -0.0322
+Current Learning Rate: 0.000006
+Epoch: 191/200 [0/50000 (0%)]	Loss: -0.082018
+Epoch: 191/200 [12800/50000 (26%)]	Loss: 0.179653
+Epoch: 191/200 [25600/50000 (51%)]	Loss: 0.066238
+Epoch: 191/200 [38400/50000 (77%)]	Loss: -0.041230
+Epoch 191/200, Average Loss: -0.0247
+Current Learning Rate: 0.000005
+Epoch: 192/200 [0/50000 (0%)]	Loss: -0.091744
+Epoch: 192/200 [12800/50000 (26%)]	Loss: -0.032242
+Epoch: 192/200 [25600/50000 (51%)]	Loss: 0.035110
+Epoch: 192/200 [38400/50000 (77%)]	Loss: 0.087888
+Epoch 192/200, Average Loss: -0.0314
+Current Learning Rate: 0.000004
+Epoch: 193/200 [0/50000 (0%)]	Loss: 0.007475
+Epoch: 193/200 [12800/50000 (26%)]	Loss: 0.002051
+Epoch: 193/200 [25600/50000 (51%)]	Loss: -0.038268
+Epoch: 193/200 [38400/50000 (77%)]	Loss: -0.079582
+Epoch 193/200, Average Loss: -0.0284
+Current Learning Rate: 0.000003
+Epoch: 194/200 [0/50000 (0%)]	Loss: 0.029973
+Epoch: 194/200 [12800/50000 (26%)]	Loss: 0.145950
+Epoch: 194/200 [25600/50000 (51%)]	Loss: 0.119335
+Epoch: 194/200 [38400/50000 (77%)]	Loss: -0.017514
+Epoch 194/200, Average Loss: -0.0284
+Current Learning Rate: 0.000002
+Epoch: 195/200 [0/50000 (0%)]	Loss: -0.112187
+Epoch: 195/200 [12800/50000 (26%)]	Loss: 0.038763
+Epoch: 195/200 [25600/50000 (51%)]	Loss: -0.026350
+Epoch: 195/200 [38400/50000 (77%)]	Loss: -0.125986
+Epoch 195/200, Average Loss: -0.0358
+Current Learning Rate: 0.000002
+Epoch: 196/200 [0/50000 (0%)]	Loss: -0.084436
+Epoch: 196/200 [12800/50000 (26%)]	Loss: -0.029055
+Epoch: 196/200 [25600/50000 (51%)]	Loss: -0.021324
+Epoch: 196/200 [38400/50000 (77%)]	Loss: -0.168286
+Epoch 196/200, Average Loss: -0.0267
+Current Learning Rate: 0.000001
+Epoch: 197/200 [0/50000 (0%)]	Loss: 0.007304
+Epoch: 197/200 [12800/50000 (26%)]	Loss: -0.098526
+Epoch: 197/200 [25600/50000 (51%)]	Loss: -0.004943
+Epoch: 197/200 [38400/50000 (77%)]	Loss: 0.072068
+Epoch 197/200, Average Loss: -0.0321
+Current Learning Rate: 0.000001
+Epoch: 198/200 [0/50000 (0%)]	Loss: -0.168636
+Epoch: 198/200 [12800/50000 (26%)]	Loss: -0.074676
+Epoch: 198/200 [25600/50000 (51%)]	Loss: -0.006980
+Epoch: 198/200 [38400/50000 (77%)]	Loss: -0.117691
+Epoch 198/200, Average Loss: -0.0373
+Current Learning Rate: 0.000000
+Epoch: 199/200 [0/50000 (0%)]	Loss: -0.042657
+Epoch: 199/200 [12800/50000 (26%)]	Loss: -0.060110
+Epoch: 199/200 [25600/50000 (51%)]	Loss: 0.041876
+Epoch: 199/200 [38400/50000 (77%)]	Loss: -0.034339
+Epoch 199/200, Average Loss: -0.0272
+Current Learning Rate: 0.000000
+/home/vgl/emir/cs552/train_ssl.py:92: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load('best_ssl_model.pth')
+Epoch: 200/200 [0/50000 (0%)]	Loss: -0.129317
+Epoch: 200/200 [12800/50000 (26%)]	Loss: -0.100106
+Epoch: 200/200 [25600/50000 (51%)]	Loss: -0.022722
+Epoch: 200/200 [38400/50000 (77%)]	Loss: -0.052720
+Epoch 200/200, Average Loss: -0.0342
+Current Learning Rate: 0.000000
