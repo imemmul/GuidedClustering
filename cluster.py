@@ -254,7 +254,7 @@ class SPECS:
 def main():
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     ssl_model = SSLResNet().to(device)
-    ssl_model.load_state_dict(torch.load('./best_model_cifar10.pth')['model_state_dict'])
+    ssl_model.load_state_dict(torch.load('./best_model.pth')['model_state_dict'])
     ssl_model.eval()
 
     # Prepare test dataset
