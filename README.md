@@ -1,2 +1,2 @@
 # GuidedClustering
-SSL guided clustering
+SPECS
